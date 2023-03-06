@@ -1,0 +1,31 @@
+{
+  "resource": "immd.gov.hk",
+  "data": {
+    "20230227": {
+      "落马洲支线": {
+        "arrival_num_hk": 100,
+        "arrival_num_sz": 1000,
+        "arrival_num_other": 1000,
+        "arrival_num_all": 2100,
+        "departure_num_hk": 1000,
+        "departure_num_sz": 1000,
+        "departure_num_other": 1000,
+        "departure_num_all": 3000
+      },
+      "罗湖": {
+        "arrival_num_hk": 100,
+        "arrival_num_sz": 1000,
+        "arrival_num_other": 1000,
+        "arrival_num_all": 2100,
+        "departure_num_hk": 1000,
+        "departure_num_sz": 1000,
+        "departure_num_other": 1000,
+        "departure_num_all": 3000
+      }
+    },
+    "20230226": {
+
+    }
+  }
+}
+

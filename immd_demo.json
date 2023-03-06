@@ -1,0 +1,164 @@
+{
+  "20230227": {
+    "機場": {
+      "arrival_num_hk": 17988,
+      "arrival_num_sz": 5321,
+      "arrival_num_other": 9668,
+      "arrival_num_all": 32977,
+      "departure_num_hk": 14937,
+      "departure_num_sz": 5112,
+      "departure_num_other": 9084,
+      "departure_num_all": 29133
+    },
+    "高鐵西九龍": {
+      "arrival_num_hk": 8405,
+      "arrival_num_sz": 8165,
+      "arrival_num_other": 319,
+      "arrival_num_all": 16889,
+      "departure_num_hk": 7264,
+      "departure_num_sz": 7161,
+      "departure_num_other": 444,
+      "departure_num_all": 14869
+    },
+    "紅磡": {
+      "arrival_num_hk": 0,
+      "arrival_num_sz": 0,
+      "arrival_num_other": 0,
+      "arrival_num_all": 0,
+      "departure_num_hk": 0,
+      "departure_num_sz": 0,
+      "departure_num_other": 0,
+      "departure_num_all": 0
+    },
+    "羅湖": {
+      "arrival_num_hk": 44841,
+      "arrival_num_sz": 10484,
+      "arrival_num_other": 275,
+      "arrival_num_all": 55600,
+      "departure_num_hk": 39561,
+      "departure_num_sz": 11557,
+      "departure_num_other": 265,
+      "departure_num_all": 51383
+    },
+    "落馬洲支線": {
+      "arrival_num_hk": 32680,
+      "arrival_num_sz": 8419,
+      "arrival_num_other": 171,
+      "arrival_num_all": 41270,
+      "departure_num_hk": 29728,
+      "departure_num_sz": 7880,
+      "departure_num_other": 190,
+      "departure_num_all": 37798
+    },
+    "香園圍": {
+      "arrival_num_hk": 7028,
+      "arrival_num_sz": 2883,
+      "arrival_num_other": 15,
+      "arrival_num_all": 9926,
+      "departure_num_hk": 6764,
+      "departure_num_sz": 1289,
+      "departure_num_other": 24,
+      "departure_num_all": 8077
+    },
+    "港珠澳大橋": {
+      "arrival_num_hk": 19532,
+      "arrival_num_sz": 2373,
+      "arrival_num_other": 2596,
+      "arrival_num_all": 24501,
+      "departure_num_hk": 15876,
+      "departure_num_sz": 3143,
+      "departure_num_other": 2794,
+      "departure_num_all": 21813
+    },
+    "落馬洲": {
+      "arrival_num_hk": 7155,
+      "arrival_num_sz": 2180,
+      "arrival_num_other": 95,
+      "arrival_num_all": 9430,
+      "departure_num_hk": 4961,
+      "departure_num_sz": 1693,
+      "departure_num_other": 143,
+      "departure_num_all": 6797
+    },
+    "文錦渡": {
+      "arrival_num_hk": 1689,
+      "arrival_num_sz": 469,
+      "arrival_num_other": 7,
+      "arrival_num_all": 2165,
+      "departure_num_hk": 1372,
+      "departure_num_sz": 363,
+      "departure_num_other": 3,
+      "departure_num_all": 1738
+    },
+    "沙頭角": {
+      "arrival_num_hk": 0,
+      "arrival_num_sz": 0,
+      "arrival_num_other": 0,
+      "arrival_num_all": 0,
+      "departure_num_hk": 0,
+      "departure_num_sz": 0,
+      "departure_num_other": 0,
+      "departure_num_all": 0
+    },
+    "深圳灣": {
+      "arrival_num_hk": 17163,
+      "arrival_num_sz": 7014,
+      "arrival_num_other": 324,
+      "arrival_num_all": 24501,
+      "departure_num_hk": 14351,
+      "departure_num_sz": 6466,
+      "departure_num_other": 470,
+      "departure_num_all": 21287
+    },
+    "中國客運碼頭": {
+      "arrival_num_hk": 672,
+      "arrival_num_sz": 414,
+      "arrival_num_other": 28,
+      "arrival_num_all": 1114,
+      "departure_num_hk": 713,
+      "departure_num_sz": 373,
+      "departure_num_other": 45,
+      "departure_num_all": 1131
+    },
+    "港口管制": {
+      "arrival_num_hk": 0,
+      "arrival_num_sz": 0,
+      "arrival_num_other": 0,
+      "arrival_num_all": 0,
+      "departure_num_hk": 0,
+      "departure_num_sz": 0,
+      "departure_num_other": 0,
+      "departure_num_all": 0
+    },
+    "啟德郵輪碼頭": {
+      "arrival_num_hk": 0,
+      "arrival_num_sz": 0,
+      "arrival_num_other": 0,
+      "arrival_num_all": 0,
+      "departure_num_hk": 0,
+      "departure_num_sz": 0,
+      "departure_num_other": 0,
+      "departure_num_all": 0
+    },
+    "港澳客輪碼頭": {
+      "arrival_num_hk": 6187,
+      "arrival_num_sz": 504,
+      "arrival_num_other": 1088,
+      "arrival_num_all": 7779,
+      "departure_num_hk": 5284,
+      "departure_num_sz": 713,
+      "departure_num_other": 1100,
+      "departure_num_all": 7097
+    },
+    "總計": {
+      "arrival_num_hk": 163340,
+      "arrival_num_sz": 48226,
+      "arrival_num_other": 14586,
+      "arrival_num_all": 226152,
+      "departure_num_hk": 140811,
+      "departure_num_sz": 45750,
+      "departure_num_other": 14562,
+      "departure_num_all": 201123
+    }
+  }
+}
